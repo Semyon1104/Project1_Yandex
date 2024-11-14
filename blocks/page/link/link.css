@@ -1,0 +1,6 @@
+.link {
+  color: #2f80ed;
+  text-decoration: none;
+  opacity: 1;
+  transition: opacity .7s ease-in-out .2s;
+  }
